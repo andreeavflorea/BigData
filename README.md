@@ -10,3 +10,12 @@
 ### 4. Andreea M5 - 03 Bucles
   Uso de bucles cuando se quiere hacer algo más de una vez (**iterar**). Para ello se hacen uso de las opciones *while* y *for* 
   También se hizo una pequeña introducción a los **bucles anidados**, es decir, un bucle dentro de otro.
+
+
+
+## Día 2 - Martes
+### Andreea M5 - 10 - Pandas
+
+### Andreea SpaceX - 1 - Data Collection Api v2
+
+### Andreea SpaceX - 4 - EDA with Data Visualization
