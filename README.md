@@ -19,3 +19,19 @@
 ### Andreea SpaceX - 1 - Data Collection Api v2
 
 ### Andreea SpaceX - 4 - EDA with Data Visualization
+
+
+## Día 3 - Miércoles
+### Andreea M5 -
+
+### Andreea SpaceX - 
+
+### Andreea SpaceX -
+
+
+## Día 4 - Viernes
+### Andreea M5 -
+
+### Andreea SpaceX - 
+
+### Andreea SpaceX -
